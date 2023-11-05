@@ -1,0 +1,37 @@
+
+body{
+
+    font-family: 'Orbitron', sans-serif;
+ margin-top: 0;
+    background-image : url(g1M9.gif) ;
+    background-size: 50% ;
+} 
+.main{
+    text-align: center;
+
+    
+}
+.btn {
+    margin-top: 5px;
+    padding: 6px 8px;
+    font-size: 190%;
+    background: rgb(255, 255, 255) ;
+    border: none;
+    font-family: 'Orbitron', sans-serif;
+}
+.zirkhat {
+   text-decoration: underline;
+}
+
+.matn {
+    width: 250px;
+    border: rgb(0, 0, 0) solid 1px;
+    background-color: rgb(255, 255, 255);
+    font-size: 105%;
+    
+    
+    margin: 0 auto;
+    padding-left: 1px;
+    padding-right: 1px;
+
+}
